@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0FFFC3&center=true&vCenter=true&width=435&lines=Software+Developer;C%23+%7C+WPF+%7C+Python+%7C+JavaScript;Welcome+to+my+neon+zone!;Let's+build+something+cool!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0FFFC3&center=true&vCenter=true&width=435&lines=Software+Developer;C%23+%7C+WPF+%7C+Python+%7C+JavaScript;Let's+build+something+cool!" alt="Typing SVG" />
 </p>
 
 ---
